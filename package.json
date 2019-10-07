@@ -1,0 +1,25 @@
+{
+  "name": "performance_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "performance-test.js",
+  "engines": {
+    "node": ">=10.x.x"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  },
+  "scripts": {
+    "test": "node ./performance-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sljohnsondev/performance_playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sljohnsondev/performance_playground/issues"
+  },
+  "homepage": "https://github.com/sljohnsondev/performance_playground#readme"
+}
